@@ -1,8 +1,12 @@
 # Gaza Sky Geeks Service Worker Workshop
 
+[Live Demo Code](https://glitch.com/edit/#!/beryl-bit)
+
+---
+
 [Service Worker Overview](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 
-[Live Demo Code](https://glitch.com/edit/#!/beryl-bit)
+[Cache Storage Overview](https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage)
 
 [Progressive Web App Info](https://developers.google.com/web/progressive-web-apps/)
 
