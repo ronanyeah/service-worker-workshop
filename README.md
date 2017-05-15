@@ -1,6 +1,6 @@
 # Gaza Sky Geeks Service Worker Workshop
 
-[Live Demo Code](https://glitch.com/edit/#!/beryl-bit)
+[Live Demo Code](https://glitch.com/edit/#!/service-worker-cache)
 
 ---
 
